@@ -5,13 +5,13 @@ prime = true
 if int < 2 
   prime = false
 else
-array.each {|x| 
+array.each do |x| 
  if int % x == 0
    prime = false
    break
   end
  end
- e
+end
 
 return prime
 end

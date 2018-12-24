@@ -7,7 +7,8 @@ if int < 2
 else
 array.each {|x| 
  if int % x == 0
-   prime = 
+   prime = false
+   break
  else
   prime=false 
 

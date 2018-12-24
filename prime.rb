@@ -2,9 +2,9 @@
 def prime?(int)
 array = (2..int-1).to_a
 prime = true
-
-array.each {|x| 
 if int < 2
+array.each {|x| 
+
    prime = true
 e
   false 

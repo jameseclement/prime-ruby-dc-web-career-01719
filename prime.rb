@@ -9,7 +9,8 @@ array.each {|x|
  if int % x == 0
    prime = true
  else
-  false 
+  prime=false 
 end
 end
+return prime
 end

@@ -10,7 +10,7 @@ array.each {|x|
    prime = false
    break
  end
- end
+ 
 
 return prime
 end

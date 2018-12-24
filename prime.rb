@@ -9,8 +9,9 @@ array.each {|x|
  if int % x == 0
    prime = false
    break
- 
- 
+  end
+ end
+ e
 
 return prime
 end

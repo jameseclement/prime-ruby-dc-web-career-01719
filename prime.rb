@@ -11,6 +11,6 @@ array.each {|x|
    break
  end
  end
-end
+
 return prime
 end

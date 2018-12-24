@@ -11,6 +11,6 @@ array.each {|x|
  else
   prime=false 
 end
-end
+
 return prime
 end

@@ -6,14 +6,10 @@ if int < 2
   prime = false
 else
 array.each {|x| 
- if 
+ if int % x == 0
    prime = true
-e
+ else
   false 
-end}
-  
-
-
-
-
+end
+end
 end
